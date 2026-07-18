@@ -1,4 +1,6 @@
-# <img src="./logo.svg" width="40" height="40" /> Casebrary
+# Casebrary
+
+<img src="./logo.svg" width="100" height="100" />
 
 The link to the original repository: https://github.com/ZeroaNinea/casebrary
 
